@@ -1,3 +1,10 @@
+/*******************************************
+Fecha: 1 octubre 2024
+Autor: Santiago Camargo
+Tema: Taller Arboles
+Estructuras de datos
+******************************************/
+
 #ifndef __KDTREE__H__
 #define __KDTREE__H__
 
